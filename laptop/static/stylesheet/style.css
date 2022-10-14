@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: rgb(17, 139, 161);
+    
+}
+div{
+    border: 1px solid grey;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    
+
+}
+button:hover{
+    background-color: blueviolet;
+    color: brown;
+
+}
+
